@@ -1,0 +1,18 @@
+{
+    "name": "ScorableBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3979/",
+            "id": "58681f30-eb06-11e8-83cd-430114443cb0",
+            "name": "http://localhost:3979/"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\sanjeev\\source\\repos\\ScorableTest\\ScorableBot.bot"
+}
